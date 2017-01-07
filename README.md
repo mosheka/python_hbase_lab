@@ -1,5 +1,5 @@
-# python_hbase_lab
-Open lab for python and hbase 
+# Python_HBase_Lab
+Open lab for Python and HBase using HappyBase 
 
 Your target is to create a users actions log table that could be used to detect users that had significant number of loses in their last games (lets say, 70% loses in last 10 games).
 
